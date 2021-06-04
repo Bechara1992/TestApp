@@ -1,0 +1,3 @@
+Scipts: contains the scripts for creating the database and tables;
+technical-test-app: contains the Angular application.
+test-app-server: contains a nodeJS rest api server
